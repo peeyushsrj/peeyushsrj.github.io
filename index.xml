@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>main</title>
+    <link>https://peeyushsrj.me/</link>
+    <description>Recent content on main</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Mar 2017 17:50:22 +0530</lastBuildDate>
+    <atom:link href="https://peeyushsrj.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>one</title>
+      <link>https://peeyushsrj.me/photography/one/</link>
+      <pubDate>Sun, 05 Mar 2017 17:50:22 +0530</pubDate>
+      
+      <guid>https://peeyushsrj.me/photography/one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>search fast</title>
+      <link>https://peeyushsrj.me/hacks/search-fast/</link>
+      <pubDate>Sun, 05 Mar 2017 16:57:49 +0530</pubDate>
+      
+      <guid>https://peeyushsrj.me/hacks/search-fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ndtm search</title>
+      <link>https://peeyushsrj.me/projects/ndtm-search/</link>
+      <pubDate>Sun, 05 Mar 2017 16:57:37 +0530</pubDate>
+      
+      <guid>https://peeyushsrj.me/projects/ndtm-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resume</title>
+      <link>https://peeyushsrj.me/resume/</link>
+      <pubDate>Sun, 05 Mar 2017 16:57:24 +0530</pubDate>
+      
+      <guid>https://peeyushsrj.me/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>towards opensource</title>
+      <link>https://peeyushsrj.me/blog/towards-opensource/</link>
+      <pubDate>Sun, 05 Mar 2017 16:57:20 +0530</pubDate>
+      
+      <guid>https://peeyushsrj.me/blog/towards-opensource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://peeyushsrj.me/about/</link>
+      <pubDate>Sun, 05 Mar 2017 16:11:03 +0530</pubDate>
+      
+      <guid>https://peeyushsrj.me/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://peeyushsrj.me/img/peeyu.jpg&#34; alt=&#34;Peeyush&#39;s photo&#34;  class=&#34;image profile-image&#34;&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I am only work.
+Hi, I am Peeyush Singh. 22, Programmer/Web Developer, from Jaipur, Living @NITC. Loves playing guitar, raoming aroud, sweets, bryan adams songs, rainy weather, &lt;a href=&#34;https://peeyushsrj.me/photos&#34;&gt;photography&lt;/a&gt; etc.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Intrested in developing software, web applications etc. (some of them are &lt;a href=&#34;https://peeyushsrj.me/projects&#34;&gt;here&lt;/a&gt;). I support of Opensource philosphy and so I do make my own work opensource (Read &lt;a href=&#34;&#34;&gt;Natural Inclination towards open source&lt;/a&gt;). Hence, concerned about privacy and freedom (&lt;a href=&#34;&#34;&gt;How to make browser more in control&lt;/a&gt;).&lt;/p&gt;
+
+&lt;!--{{attributes listing}}. graph--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
