@@ -1,8 +1,8 @@
 ---
 layout: post
-title:	Setting up a blog effortlessly
+title:	Setting up a blog
 date:	2020-01-22
-category-name: Solutions
+category: Solutions
 #permalink: "/"
 author:	Peeyush Singh
 ---

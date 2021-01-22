@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-My name is PEEYUSH SINGH. That's what I [produce](/solutions/).
+My name is PEEYUSH SINGH. I am in love with problem solving.
