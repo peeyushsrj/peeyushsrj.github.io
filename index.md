@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-My name is Lorem Ipsum. More [about me](/about/).
+My name is PEEYUSH SINGH. That's what I [produce](/solutions/).
