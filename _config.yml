@@ -1,0 +1,11 @@
+title: PEEYUSHSRJ
+email: peeyushsrj@gmail.com
+description: Some common design patterns! 
+url: "https://peeyushsrj.github.io"
+twitter: peeyu5h
+
+baseurl: ""
+permalink: /:categories/:title:output_ext
+markdown: kramdown
+plugins:
+  - jekyll-feed
