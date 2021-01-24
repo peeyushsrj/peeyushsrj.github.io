@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	Setting up a blog
+title:	Blogging
 date:	2020-01-22
 category: Solutions
 #permalink: "/"
