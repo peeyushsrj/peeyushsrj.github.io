@@ -1,4 +1,5 @@
 ---
 layout: home
 ---
-My name is PEEYUSH SINGH. I am in love with problem solving.
+
+🦋 If you don't take a stand, someone will! Know more [about me](./about.html) 

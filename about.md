@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-My name is PEEYUSH SINGH
+My name is Peeyush Singh and I live in India. I am currently into deveops and automation. 
+
