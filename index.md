@@ -2,4 +2,4 @@
 layout: home
 ---
 
-🦋 If you don't take a stand, someone will! Know more [about me](./about) 
+🦋 Abudant human working with technology! Know more [about me](./about) 
