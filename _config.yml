@@ -3,6 +3,8 @@ email: peeyushsrj@gmail.com
 description: Problems and their solutions
 url: "https://peeyushsrj.github.io"
 twitter: peeyu5h
+disqus: peeyushsrj
+github: peeyushsrj
 
 baseurl: ""
 permalink: /:categories/:title:output_ext
