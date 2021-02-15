@@ -10,6 +10,7 @@ Here's is my list of software [utilities](http://fosting.in/), that you may find
 
 Also I been writing story about how a man travel back into the future. 
 
+
 <!-- 
 
 With his SHEER WILL to travel back,
@@ -23,3 +24,5 @@ leading back into the future. (zero sum games!)
 - [Twitter](https://twitter.com/peeyu5h)
 
 - [Mail](mailto:peeyushsrj@gmail.com)
+
+> 80% of my work can be produced by being 80% happy, If you're not -> make it as no. 1 priority!
