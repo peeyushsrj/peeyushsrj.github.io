@@ -2,4 +2,4 @@
 layout: home
 ---
 
-🦋 Abundant human working with tech.! Open sourcing my way out, [know more](./about) 
+🦋 Positive sum tech!📈 Open sourcing my way out, [know more](./about).
