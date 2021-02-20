@@ -2,8 +2,8 @@
 
 # Being pushy!
 
-# Takeing stand else bad party WILL!!!
+# Taking stand else bad party WILL!!!
 
-# being in love with doing part only. outcome is a deterministic probabily game!
+# Being in love with doing part only, outcome is a deterministic probability!
 
 

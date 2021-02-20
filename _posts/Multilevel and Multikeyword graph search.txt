@@ -1,0 +1,117 @@
+Multilevel and Multikeyword graph search
+
+
+Multilevel -> select any level, or nest anywhere
+Multikeyword -> not just a word! but whole set of strings search effectively
+graph search -> data is represent as graph, so you may neeed to write queries to search
+
+using falcor. why?
+
+because that is meant to be a nested data struct, with proper references etc.
+
+Evaulations?
+
+1. Friends of me who live in bengaluru/
+me->friends.lives?bengaluru
+2. Friends of me who like Frodo Theodor and lives in bengalure
+me->friends.(likes->"Frodo Theodor" and lives->"Bengaluru")
+#3. Friends of me looking for job in bengaluru
+#me->friends.job?bengaluru
+3. Places 
+
+me->places->
+
+WRITING and BOOK
+
+APPLICATIONS of topics, (as book as another activity)
+
+
+FREEDOM fof thoughs without otucome as hbb
+
+Leading jumps! liek paul grapham, than continous!  (quantum leaps)
+
+WYSIWYG website uilder like wordpress *website builder than generate custom websites and pages*
+
+*overconfidense
+
+writing main parts, not the extra utilitties thing! 
+
+$300 dollars a lot money, in 1996 for a client (un-normalized thinking)
+
+being so lame that we're driven to the most desperate measures to get users.
+
+> since the whole raison d'etre of our software was that people could use it to make their own stores.
+> But anything to get users. that's what idealistic users wanted and they gave!
+
+rather than making that thing, a thing to make that thing -> RUFUS! 
+
+paulg and dhh did so great because, they didn't know what possilb
+and had infinite belif in possibilities! and sure they did.
+whatever they wanted, they can easily ( SAAS )
+
+software out of use case of business etc.
+
+money making was main outcome of business,
+must be primary measure also. and growth rate to note!
+
+paulg - investors are like booss, don't add them
+
+> But I had done this to get rich so I could paint, I reminded myself, and now I was rich, so I should go paint.
+
+at that point leaving was ; (making 2M$per month ) for greater good like opening new statup etc.
+
+>  Now when I talk to founders who are leaving after selling their companies, my advice is always the same: take a vacation.
+
+Why not build a web app for making web apps? 
+
+the legacy of old programmer's ouput (years of work),
+could be headache for new programmer (as he doesn't knows the use case and origin)
+once he knew the use case and applications and origin; he be heartly and super human.
+
+
+> leadership is very important to build something. with 2-3 people contributing, 
+that's a growth strategy etc. 
+
+
+blog was concept of public book anyone can glance. (stright outta - newspaper or magzie)
+that came out as writer! (use case) ` 8 years to realize it`
+
+> things seems lame sometimes, in startup (vision/solution neews to be kept)  - paulg
+
+> It's not that unprestigious types of work are good per se. But when you find yourself drawn to some kind of work despite its current lack of prestige, it's a sign both that there's something real to be discovered there, and that you have the right kind of motives. Impure motives are a big danger for the ambitious. If anything is going to lead you astray, it will be the desire to impress people. So while working on things that aren't prestigious doesn't guarantee you're on the right track, it at least guarantees you're not on the most common type of wrong one.
+
+> founder as ceo - paulg
+
+> One of my tricks for writing essays had always been to give talks (hack of writing things!). The prospect of having to stand up in front of a group of people and tell them something that wouldn't waste their time was a great spur to the imagination. 
+
+> Once again, ignorance worked in our favor. We had no idea how to be angel investors, and in Boston in 2005 there were no Ron Conways to learn from. So we just made what seemed like the obvious choices, and some of the things we did turned out to be novel.
+> didn't find one, start one! (advantages of early in competetion)
+
+yc was outcome of another, being a rookie and do it rather than a systematic player in the field.
+no one told them it wasn't possible etc scenario.
+
+
+one thing take away form paulg -. s to do it, becaus why the heck not! 
+
+> You had to be pretty bold to sign up for a weird thing like the Summer Founders Program instead of a summer job at a legit place like Microsoft or Goldman Sachs.
+
+> It solved one of the biggest problems faced by founders: the isolation.
+> Now you not only had colleagues, but colleagues who understood the problems you were facing and could tell you how they were solving them.
+
+not focussing on one thing! Hack, read/write and work
+
+> the good founders were very effective. 
+
+writing does help
+
+attention is zero sum game. Dividing parts of life as !
+
+Building next impoosible (unstuck!)
+
+what's my biggest achievement or coolest thing that i developed?
+
+
+
+
+
+
