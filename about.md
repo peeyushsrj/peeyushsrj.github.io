@@ -4,30 +4,31 @@ title: About
 permalink: /about/
 ---
 
+![PEEYUSHSRJ](https://pbs.twimg.com/profile_images/1329139223715217408/9uSwCIDv_200x200.jpg)
 
 > 42 is the answer, Ask the Right Question!
 
-Who is peeyushsrj anyway?
+Who is `peeyushsrj` anyway?
 
-He's a crazy guy, who mostly talks about Tech.! (Why? Well it's been foolish not to talk about magic when all of us possesed inside.)
-He bets on his work ethics, reasoning and idealistic applications. (mostly himself in any conditions) 
+He is a kid, who mostly talks about interesting things. Technology is always on top of his head!
+(Ask him anything about anything? Also ask him why?)
 
-Born in Jaipur, Studied in Calicut, Living in Bengaluru.
+🌲 Bets on my work system, ethics, reasoning and problem solving. (confidence offcourse)
 
-Other hobbies:-
+📍 Jaipur
 
-1. Travelling (now have to do with walking)
-2. Singing (and playing guitar)
-3. Converstations with solutions as goal
-4. Tech. consulting people around me
+I do have other hobbies like Travelling, Singing and Talking sense! (mostly for freedom from mind)
 
-My AIM leads to an understanding of world around me, and key for that is honest and useful converstations.
-Also I look forward to use my time to produce values in physical world (win-win! )
+**AIM** is for greater understading of system around me ( and breaking out ) and 
+to improve it eventually - since humans can make `0` sum games into `+` ones!
 
-**Professionally** I been working with stuffs related to migration of tech stack, scaling of tech stacks, useful alerts for system fail or down, building utilites/software etc. Core skills is a balance fast and quality work (thanks to divide and conquore and trees!)
+**PROFESSION** Develops, Backend, Sofware, Scaling, Security ... [Angelist](https://angel.co/u/peeyush-singh-1)
+<!-- solving via trees, divide an conquery any problems around me-->
 
 
-I been uploading my utilites, which I been working from 2021 over here;
+<!-- NEW PROJECTS PAGE -->
+<!-- rEUSME SOON --> 
+<!--I been uploading my utilites, which I been working from 2021 over here;
 
 Here's is my list of software [utilities](http://fosting.in/), that you may find helpful.
 
@@ -38,7 +39,9 @@ https://github.com/peeyushsrj (2017-Present)
 
 Also I been writing story about how a man travel back into the future. 
 
-> 80% of my work can be produced by being 80% happy, If you're not -> make it as no. 1 priority! -->
+-->
+
+> 80% of my work can be produced by being 80% happy, If you're not -> make it as no. 1 priority!
 
 <!-- 
 
@@ -54,3 +57,6 @@ leading back into the future. (zero sum games!)
 
 - [Mail](mailto:peeyushsrj@gmail.com)
 
+- [LinkedIN](http://linkedin.com/in/peeyushsrj)
+
+Feel free to contact me! (If you're in Jaipur, let's have a coffee! ☕)
