@@ -1,0 +1,24 @@
+What is good resource to learn fluter?
+
+Learn following by steps, examples which gives you kind of progress 
+https://dev.to/zaiste/22-short-lessons-to-become-a-mobile-programmer-using-flutter-framework-d9j
+
+What is NFT? And use cases?
+
+- A virtual media linked to a private key (user)
+- Personal peroperty
+- holds value
+
+Insomnia Designer use cases?
+
+- Good docs
+- Good specs plays
+- Good place to tryout
+- Good place for mockapis endpoints
+- Writing tests on mockapis
+- maybe syncinc also availbae for paid products
+
+
+Where can I find rework audiobook?
+
+https://open.spotify.com/episode/4r4EIYXQzYWuUf8psWLRQ8
