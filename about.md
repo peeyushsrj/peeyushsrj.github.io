@@ -4,23 +4,17 @@ title: About
 permalink: /about/
 ---
 
-![PEEYUSHSRJ](https://pbs.twimg.com/profile_images/1329139223715217408/9uSwCIDv_200x200.jpg)
-
 > 42 is the answer, Ask the Right Question!
 
-Who is `peeyushsrj` anyway?
-
-He is a kid, who mostly talks about interesting things. Technology is always on top of his head!
-(Ask him anything about anything? Also ask him why?)
+Hello, my name is Peeyush Singh. Living as a kid, who mostly talks about interesting things.Technology is always on top of head! (ask him why?)
 
 🌲 Bets on my work system, ethics, reasoning and problem solving. (confidence offcourse)
 
-📍 Jaipur
+📍 Bengaluru, India
 
 I do have other hobbies like Travelling, Singing and Talking sense! (mostly for freedom from mind)
 
-**AIM** is for greater understading of system around me ( and breaking out ) and 
-to improve it eventually - since humans can make `0` sum games into `+` ones!
+**AIM** is to maximize challening and useful work, with competetive credits. Thus progressively moving towards Unknown, great minds, captain and a selfless being.
 
 **PROFESSION** Develops, Backend, Sofware, Scaling, Security ... [Angelist](https://angel.co/u/peeyush-singh-1)
 <!-- solving via trees, divide an conquery any problems around me-->
@@ -59,4 +53,4 @@ leading back into the future. (zero sum games!)
 
 - [LinkedIN](http://linkedin.com/in/peeyushsrj)
 
-Feel free to contact me! (If you're in Jaipur, let's have a coffee! ☕)
+Feel free to contact me! (If you're around, let's have a coffee! ☕)
