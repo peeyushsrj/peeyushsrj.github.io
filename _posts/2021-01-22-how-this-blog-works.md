@@ -8,7 +8,7 @@ author:	Peeyush Singh
 
 Blog setting up should be easy and intuitive. I use Github page to do it!
 
-Why?
+## Why?
 
 1. Cloud storage for blog posts and remote edit<br>
 I use multipe devices for editing/writing. The latest code, can be edited either from online or from my local computer. I don't have to keep a 24*7 backup anywhere as it is stored totally on cloud
@@ -19,11 +19,17 @@ Github uses [Jekyll](https://jekyllrb.com/). After initial setup by github (for 
 3. Batteries Included<br>
 Since the blogging framework `jekyll` used underneath support custom plugins e.g. Newsletters, RSS feed, Comments, Social linking etc. You can select what to include and what not! It's highly flexible and made just for blogging. (Everything here is a setting!)
 
-Why do I do blogging?
+## Why to blogging?
 
 - Learning via writing
 - Writing is, clearing mind
 - Knowledge Sharing
+
+## How to do?
+
+- [Long answer](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
+- [Short answer](https://github.com/danromero/clio#how-to-set-up) 😉
+
 
 <!--
 
