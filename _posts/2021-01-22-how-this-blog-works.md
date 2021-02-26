@@ -10,16 +10,13 @@ Blog setting up should be easy and intuitive. I use Github page to do it!
 
 Why?
 
-1. Cloud storage for blog posts and remote edit
-
+1. Cloud storage for blog posts and remote edit<br>
 I use multipe devices for editing/writing. The latest code, can be edited either from online or from my local computer. I don't have to keep a 24*7 backup anywhere as it is stored totally on cloud
 
-2. Provide a Framework for Static Site hosting (along doing it for FREE)
-
+2. Provide a Framework for Static Site hosting (along doing it for FREE)<br>
 Github uses [Jekyll](https://jekyllrb.com/). After initial setup by github (for repositories cloning), keep your public files (written in markdown) using the format `YYYY-mm-dd-some-title1.md`. All the files with these conventions goes to public blog. Thus, this can also be used to store drafts.
 
-3. Batteries Included
-
+3. Batteries Included<br>
 Since the blogging framework `jekyll` used underneath support custom plugins e.g. Newsletters, RSS feed, Comments, Social linking etc. You can select what to include and what not! It's highly flexible and made just for blogging. (Everything here is a setting!)
 
 Why do I do blogging?
