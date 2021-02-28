@@ -33,3 +33,6 @@ Awareness gone waste! This was just meant to protect us, not to become our maste
 > Untamed thinking is instant gratification. You're happening thinking it! then you're sad because of them not happening.
  
 I won't say it's bad. It's an amazing follower, it doesn' everything. And there lies the problem, where are you?
+
+
+** Simple solution that I have found is be like a child! (no expectations of future!)**
