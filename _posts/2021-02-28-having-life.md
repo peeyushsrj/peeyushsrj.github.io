@@ -2,7 +2,7 @@
 layout: post
 title:	Living
 date:	2020-01-28
-category: Draft2
+category: Solutions
 author:	Peeyush Singh
 ---
 
