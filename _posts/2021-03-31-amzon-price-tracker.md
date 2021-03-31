@@ -13,7 +13,7 @@ author:	Peeyush Singh
 
 This application can be accessible via this [Google form](https://forms.gle/KbYSJnFPHGvKAZzQ7).
 
-If you want to self host the code (run the  code by yourself). Use the following [repository](https://bitbucket.org/peeyushsrj/amzsc/src/master/), I am using [openfaas](https://www.openfaas.com/) to deploy. (build using given `Dockerfile` & call hook periodically)
+If you want to self host the code (run the  code by yourself). Use the following [repository](https://bitbucket.org/peeyushsrj/amzsc/src/master/), to build the docker imiage and self host.
 
 *Note - you will continuously receive emails every hour; if the price goes down below the price.
 
