@@ -2,7 +2,7 @@
 layout: post
 title:	Setting up blog
 date:	2020-01-22
-category: Solutions
+category: Notes
 author:	Peeyush Singh
 ---
 
