@@ -6,7 +6,7 @@ permalink: /about/
 
 > 42 is the answer, Ask a Right Question!
 
-Hello, my name is Peeyush Singh. Living as a open minded human, who mostly indulge himself in computer technologies. But apart from this, you can find him socializing, driving, reading poems, listening to piano or playing strings 🎸.
+Hello, my name is Peeyush Singh. Living as a open minded human, who mostly indulge himself in computer technologies. But apart from this, you can find him socializing, driving crazy and sometimes car, quoting poems, talking about sci-fi, listening to piano music 🎸.
 
 📍 Jaipur, India
 
