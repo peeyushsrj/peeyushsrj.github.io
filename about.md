@@ -6,15 +6,12 @@ permalink: /about/
 
 > 42 is the answer, Ask a Right Question!
 
-Hello, my name is Peeyush Singh. Living as a open minded human, who mostly indulge himself in computer technologies. But apart from this, you can find him socializing, driving crazy and sometimes car, quoting poems, talking about sci-fi, listening to piano music 🎸.
+Hello, my name is Peeyush Singh and I work as a Lead Engineer at Exactspace Pvt. Ltd. I am a open minded human, who wants to sustain a good life, helping out people by building karma and leaving small carbon food print. I spend most of my time with my work, followed by tinkering/building cool things, friends (via call), watching sci-fi or randomly roaming across!
 
 📍 Jaipur, India
 
-**AIM** is to have a greater understanding of reality. Secondary is to genuinely help fellows, who don't know how to do it yet!
 
 <!--to maximize challening and useful work, with competetive credits. Thus progressively moving towards Unknown, great minds, captain and a selfless being.-->
-
-**PROFESSION** Develops, Backend, Sofware, Scaling, Security ... [Angelist](https://angel.co/u/peeyush-singh-1)
 
 <!-- solving via trees, divide an conquery any problems around me-->
 
@@ -23,14 +20,14 @@ Hello, my name is Peeyush Singh. Living as a open minded human, who mostly indul
 <!-- rEUSME SOON --> 
 <!--I been uploading my utilites, which I been working from 2021 over here;
 
-Here's is my list of software [utilities](http://fosting.in/), that you may find helpful.
+Here some of my work -
 
-Rest could be found in 
+<!--Here's is my list of software [utilities](http://fosting.in/), that you may find helpful.--> 
 
 https://bitbucket.org/peeyushsrj/ (2012-2017)
-https://github.com/peeyushsrj (2017-Present)
+https://github.com/peeyushsrj (2017-present)
 
-Also I been writing story about how a man travel back into the future. 
+Also I been writing story about how a man travel back into the future, but on another universe. 
 
 -->
 
@@ -52,4 +49,4 @@ leading back into the future. (zero sum games!)
 
 - [LinkedIN](http://linkedin.com/in/peeyushsrj)
 
-Feel free to contact (If you're around, let's grab a coffee! ☕)
+Feel free to contact (If you're around, let's grab a cup of coffee and talk about life! ☕)
