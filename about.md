@@ -6,7 +6,7 @@ permalink: /about/
 
 > 42 is the answer, Ask a Right Question!
 
-Hello, my name is Peeyush Singh and I work as a Lead Engineer at Exactspace Pvt. Ltd. I am a open minded human, who wants to sustain a good life, helping out people by building karma and leaving small carbon food print. I spend most of my time with my work, followed by tinkering/building cool things, friends (via call), watching sci-fi or randomly roaming across!
+Hello, my name is Peeyush Singh and I work as a Lead Engineer at Exactspace Pvt. Ltd. I am a open minded human, who wants to [sustain a good life](), [helping out people by building karma]() and [leaving small carbon foot prints](). I spend most of my time with my work, followed by tinkering/building cool things, friends (via call), watching sci-fi or randomly roaming across!
 
 📍 Jaipur, India
 
@@ -18,7 +18,6 @@ Hello, my name is Peeyush Singh and I work as a Lead Engineer at Exactspace Pvt.
 
 <!-- NEW PROJECTS PAGE -->
 <!-- rEUSME SOON --> 
-<!--I been uploading my utilites, which I been working from 2021 over here;
 
 Here some of my work -
 
