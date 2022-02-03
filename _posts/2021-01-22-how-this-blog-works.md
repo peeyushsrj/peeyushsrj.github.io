@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	Setting up blog
+title:	Setting and maintaining a blog easily (for developers)
 date:	2020-01-22
 category: Notes
 author:	Peeyush Singh
