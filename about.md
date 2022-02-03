@@ -23,8 +23,8 @@ Hello, my name is Peeyush Singh and I work as a Lead Engineer at Exactspace Pvt.
 
 <!--Here's is my list of software [utilities](http://fosting.in/), that you may find helpful.--> 
 
-https://bitbucket.org/peeyushsrj/ (2012-2017)
-https://github.com/peeyushsrj (2017-present)
+- https://bitbucket.org/peeyushsrj/ (2012-2017)
+- https://github.com/peeyushsrj (2017-present)
 
 Also I been writing story about how a man travel back into the future, but on another universe. 
 
