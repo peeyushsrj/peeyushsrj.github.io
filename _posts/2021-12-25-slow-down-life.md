@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Avoiding Chaos -> Digital Minimalism
+title: Avoiding chaos in life
 date:	2021-12-25
 category: Notes
 author:	Peeyush Singh
