@@ -35,7 +35,7 @@ layout: default
     <div class="more-space">
       {%- for post in site.categories["Notes"] limit:10 -%}
       	<p>
-		 {{ post.date | date: "%B %-d, %Y" }} - 
+		 <b>{{ post.date | date: "%B %-d, %Y" }} </b>- 
 	      	<a class="post-link" href="{{ post.url | relative_url }}">
 	      		{{ post.title | escape }}
 	      	</a>
