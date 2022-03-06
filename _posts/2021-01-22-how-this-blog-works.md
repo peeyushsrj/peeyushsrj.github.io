@@ -8,13 +8,6 @@ author:	Peeyush Singh
 
 Blog setting up should be easy and intuitive. I use Github page to do it!
 
-## My Blogging Flow
-
-1. Edit locally in word; save to one drive; upload to github. **Forever**
-2. Central place for all blog entries. You can fast edit on cloud in case of mistake!
-3. Almost no time to deploy. [check this](https://github.com/peeyushsrj/peeyushsrj.github.io/issues/9) 
-4. Extensible - add Newsletter, comments, social linking, developing webpages etc.
-
 ## Why to blogging?
 
 1. Your thoughts, or selves in a timeline. Footprints.
@@ -22,11 +15,19 @@ Blog setting up should be easy and intuitive. I use Github page to do it!
 3. Learning via writing (some people use, I don't)
 4. Reference for someone else - either journal or tech article
 
-## How to do?
+## My Blogging Flow
+
+1. Edit locally in word; save to one drive; upload to github. **Forever**
+2. Central place for all blog entries. You can fast edit on cloud in case of mistake!
+3. Almost no time to deploy. [check this](https://github.com/peeyushsrj/peeyushsrj.github.io/issues/9) 
+4. Extensible - add Newsletter, comments, social linking, developing webpages etc.
+
+## How to blogging?
 
 - [Low tech answer](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
 - [High tech answer](https://github.com/danromero/clio#how-to-set-up) 😉
 
+Easier flow than this? DM!
 
 <!--
 
