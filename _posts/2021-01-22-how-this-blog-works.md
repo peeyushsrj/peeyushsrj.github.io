@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	Setting and maintaining a blog easily (for developers)
+title:	Why and How of blogging
 date:	2020-01-22
 category: Notes
 author:	Peeyush Singh
@@ -8,27 +8,24 @@ author:	Peeyush Singh
 
 Blog setting up should be easy and intuitive. I use Github page to do it!
 
-## Why?
+## My Blogging Flow
 
-1. Cloud storage for blog posts and remote edit<br>
-I use multipe devices for editing/writing. The latest code, can be edited either from online or from my local computer. I don't have to keep a 24*7 backup anywhere as it is stored totally on cloud
-
-2. Provide a Framework for Static Site hosting (along doing it for FREE)<br>
-Github uses [Jekyll](https://jekyllrb.com/). After initial setup by github (for repositories cloning), keep your public files (written in markdown) using the format `YYYY-mm-dd-some-title1.md`. All the files with these conventions goes to public blog. Thus, this can also be used to store drafts.
-
-3. Batteries Included<br>
-Since the blogging framework `jekyll` used underneath support custom plugins e.g. Newsletters, RSS feed, Comments, Social linking etc. You can select what to include and what not! It's highly flexible and made just for blogging. (Everything here is a setting!)
+1. Edit locally in word; save to one drive; upload to github. **Forever**
+2. Central place for all blog entries. You can fast edit on cloud in case of mistake!
+3. Almost no time to deploy. [check this](https://github.com/peeyushsrj/peeyushsrj.github.io/issues/9) 
+4. Extensible - add Newsletter, comments, social linking, developing webpages etc.
 
 ## Why to blogging?
 
-- Learning via writing
-- Writing is, clearing mind
-- Knowledge Sharing
+1. Your thoughts, or selves in a timeline. Footprints.
+2. Clearing your mind, making goal. Small solution without meditations.
+3. Learning via writing (some people use, I don't)
+4. Reference for someone else - either journal or tech article
 
 ## How to do?
 
-- [Long answer](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
-- [Short answer](https://github.com/danromero/clio#how-to-set-up) 😉
+- [Low tech answer](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
+- [High tech answer](https://github.com/danromero/clio#how-to-set-up) 😉
 
 
 <!--
