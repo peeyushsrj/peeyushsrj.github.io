@@ -14,7 +14,7 @@ GEM
       execjs
     coffee-script-source (1.11.1)
     colorator (1.1.0)
-    commonmarker (0.17.13)
+    commonmarker (0.23.4)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.8)
     dnsruby (1.61.5)
@@ -196,7 +196,7 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
-    kramdown (2.3.0)
+    kramdown (2.3.1)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -211,7 +211,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.4)
     multipart-post (2.1.1)
-    nokogiri (1.12.5-x86_64-linux)
+    nokogiri (1.12.5 to 1.13.3-x86_64-linux)
       racc (~> 1.4)
     octokit (4.20.0)
       faraday (>= 0.9)
