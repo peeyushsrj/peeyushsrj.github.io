@@ -31,14 +31,14 @@ layout: default
      <a class="post-link" href="/lessons/" style='text-decoration:none'>.</a>
 	-->
     <h2>{{ "Posts" }}</h2>
-    <ul class="more-space">
+    <div class="more-space">
       {%- for post in site.categories["Notes"] limit:10 -%}
-      	<li>
+      	<p>
 		 {{ post.date | date: "%B %-d, %Y" }} - 
 	      	<a class="post-link" href="{{ post.url | relative_url }}">
 	      		{{ post.title | escape }}
 	      	</a>
-	</li>
+	</p>
       {%- endfor -%}
     </ul>
 	
