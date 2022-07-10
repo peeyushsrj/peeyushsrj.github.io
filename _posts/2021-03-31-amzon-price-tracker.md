@@ -1,13 +1,19 @@
 ---
 layout: post
-title:	Amazon Price Tracker
+title:	(deprecated) When to buy from Amazon?
 date:	2020-03-31
 draft: false
-category: SoftwareDiscovery
+category: Solutions
 author:	Peeyush Singh
 ---
 
+### Problem
 
+**tldr**: This is for non urgent items only.
+
+Amazon is great for us, as we get what we want with a click of a button (of few clicks). Well problem is that price varies, and sometimes we missed the offers. It's cumbersome also to subscribe to those discount channels, and f**king look for all item. Nope, we want to limit ourself for that item's discount. Now how would you do that? 
+
+### Solution
 
 **AIM:** This utility helps you to alert when a price goes down for a certain item on amazon. You can simply paste `url`, `buy_below` price and `email` to which alert needs to be sent! 
 
