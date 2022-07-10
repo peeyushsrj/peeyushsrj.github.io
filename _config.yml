@@ -4,8 +4,8 @@ description: Problems and their solutions
 url: "htts://pyu.sh"
 twitter: peeyu5h
 disqus: peeyushsrj
+disqusShortname: peeyushsrj
 github: peeyushsrj
-
 baseurl: ""
 permalink: /:categories/:title:output_ext
 markdown: kramdown

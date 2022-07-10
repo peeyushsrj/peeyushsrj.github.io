@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "c207c31e2d19e073",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7c1bf53d78d2464",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-07-10-family-shoppping.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b852015c4a5e066a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8acf84d720af01db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cde51436fd1c416",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4806cf6abe46d1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "155335b3f12c4a42",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5583cb18e9a416c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a847cff551b0657",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2022-07-10-family-shoppping.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e7c1bf53d78d2464",
+  "lastOpenFiles": [
+    "_posts/2022-07-10-family-shoppping.md"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "f8252615098b0b89",
+    "type": "split",
+    "children": [
+      {
+        "id": "9468f929a898444f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-02-28-having-life.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "efaf1a4111991f00",
+    "type": "split",
+    "children": [
+      {
+        "id": "4838361076651e81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5570e37fd285de39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e08f0bed3c969a1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4f90232eb90aa0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "001b8e4fddbff935",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cdbbbbee0f0c675",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-02-28-having-life.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9468f929a898444f",
+  "lastOpenFiles": [
+    "2021-02-28-having-life.md",
+    "2022-07-10-family-shoppping.md",
+    "2021-04-07-lifestyle.md",
+    "2022-03-06-Inferiority Complex.md",
+    "2021-12-25-slow-down-life.md",
+    "2021-03-31-amzon-price-tracker.md",
+    "2021-02-20relationships.md",
+    "2021-01-22-how-this-blog-works.md"
+  ]
+}

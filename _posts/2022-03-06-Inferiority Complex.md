@@ -2,8 +2,8 @@
 layout: post
 title: Inferiority Complex is an Illusion ?
 date:	2022-03-06
-category: Notes
-draft: false
+category: Solutions
+draft: true
 author: Pyush
 ---
 
