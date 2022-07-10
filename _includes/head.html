@@ -31,12 +31,13 @@
 {% if page.ogimage %}
   <meta property="og:image" content="{{ site.url }}/assets/og/{{ page.ogimage }}" >
 {% else %}
-  <meta property="og:image" content="/assets/logo.png" >
+  <meta property="og:image" content="/assets/initials.png" >
 {% endif %}
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@{{ site.twitter }}" />
   <meta name="twitter:creator" content="@{{ site.twitter }}" />
 
+  <link rel="shortcut icon" type="image/png" href="/assets/favicon.ico">
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS feed" href="{{ site.url }}/feed.xml" />

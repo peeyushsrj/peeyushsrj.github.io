@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	Why another blog, should you, how?
+title:	Why another blog, should you? how?
 date:	2020-01-22
 category: Solutions
 author:	Peeyush Singh

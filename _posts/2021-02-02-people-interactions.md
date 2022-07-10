@@ -3,6 +3,7 @@ layout: post
 title:	Communication
 date:	2020-02-02
 category: Solutions
+draft: true
 author:	Peeyush Singh
 ---
 

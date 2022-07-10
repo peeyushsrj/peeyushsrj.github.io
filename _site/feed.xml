@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-10T14:47:31+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">PYU.SH</title><subtitle>Problems and their solutions</subtitle><entry><title type="html">Your family memeber missed that item, you asked?</title><link href="http://localhost:4000/solutions/family-shoppping.html" rel="alternate" type="text/html" title="Your family memeber missed that item, you asked?" /><published>2022-06-10T00:00:00+05:30</published><updated>2022-06-10T00:00:00+05:30</updated><id>http://localhost:4000/solutions/family-shoppping</id><content type="html" xml:base="http://localhost:4000/solutions/family-shoppping.html">&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;/h2&gt;
+
+&lt;p&gt;Shopping and reminder is cucumber-some, if something is urgent we will buy it. But with more busyness in life, we may miss something that is not urgent or that is not important.&lt;/p&gt;
+
+&lt;p&gt;Only import &amp;amp; urgent once, we do usually on demand. How does your family members, make sure that you don’t miss any items?&lt;/p&gt;
+
+&lt;h2 id=&quot;solution&quot;&gt;Solution&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Alexa, add it to shopping list!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Yes, that’s it. We have Alexa installed in each our mobile handsets. We ask Alexa, what’s is in shopping list.&lt;/p&gt;
+
+&lt;p&gt;With one tap of mobile,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Alexa, add shampoo to grocery list!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;With one tap of mobile,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Alexa, read grocery list!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Alexa, mark item shampoo in my grocery list!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And , it’s out of shopping list. So whenever any family member of us, goes out. We use mostly Alexa! (including my mom)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P.S.&lt;/strong&gt; Well most of us!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;how-you-can-do-it&quot;&gt;How you can do it?&lt;/h3&gt;
+
+&lt;p&gt;Enable, shortcut. Say Alexa or ok google! whatever…!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Hope you like it, gives a thumbs up!&lt;/em&gt;&lt;/p&gt;</content><author><name>Pyush</name></author><category term="Solutions" /><summary type="html">Problem</summary></entry><entry><title type="html">Amazon Price Tracker</title><link href="http://localhost:4000/softwarediscovery/amzon-price-tracker.html" rel="alternate" type="text/html" title="Amazon Price Tracker" /><published>2020-03-31T00:00:00+05:30</published><updated>2020-03-31T00:00:00+05:30</updated><id>http://localhost:4000/softwarediscovery/amzon-price-tracker</id><content type="html" xml:base="http://localhost:4000/softwarediscovery/amzon-price-tracker.html">&lt;p&gt;&lt;strong&gt;AIM:&lt;/strong&gt; This utility helps you to alert when a price goes down for a certain item on amazon. You can simply paste &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;url&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;buy_below&lt;/code&gt; price and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;email&lt;/code&gt; to which alert needs to be sent!&lt;/p&gt;
+
+&lt;p&gt;This application can be accessible via this &lt;a href=&quot;https://forms.gle/KbYSJnFPHGvKAZzQ7&quot;&gt;Google form&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you want to self host the code (run the  code by yourself). Use the following &lt;a href=&quot;https://bitbucket.org/peeyushsrj/amzsc/src/master/&quot;&gt;repository&lt;/a&gt;, to build the docker imiage and self host.&lt;/p&gt;
+
+&lt;p&gt;*Note - you will continuously receive emails every hour; if the price goes down below the price.&lt;/p&gt;</content><author><name>Peeyush Singh</name></author><category term="SoftwareDiscovery" /><summary type="html">AIM: This utility helps you to alert when a price goes down for a certain item on amazon. You can simply paste url, buy_below price and email to which alert needs to be sent!</summary></entry><entry><title type="html">Web Summary</title><link href="http://localhost:4000/softwarediscovery/web-summary.html" rel="alternate" type="text/html" title="Web Summary" /><published>2020-03-31T00:00:00+05:30</published><updated>2020-03-31T00:00:00+05:30</updated><id>http://localhost:4000/softwarediscovery/web-summary</id><content type="html" xml:base="http://localhost:4000/softwarediscovery/web-summary.html">&lt;p&gt;&lt;strong&gt;AIM:&lt;/strong&gt; Read only headlines out of website/article.&lt;/p&gt;
+
+&lt;p&gt;For Public Use; drag &lt;a href=&quot;javascript:location.href=&apos;http://fosting.in:8080/function/sudoc?selector=h2&amp;amp;url=&apos;+location.href&quot;&gt;this link&lt;/a&gt; to your bookmarks bar. This will convert any website to headlines. New url will be the format of ;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;http://fosting.in:8080/function/sudoc?selector=h2&amp;amp;url=https://pyload.net/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Chnage selector to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;h1, h2, h3&lt;/code&gt; to select required headlines.&lt;/p&gt;
+
+&lt;p&gt;Open source code available &lt;a href=&quot;https://bitbucket.org/peeyushsrj/sudoc/src/master/&quot;&gt;here&lt;/a&gt;! (usng openfaas to deploy this!)&lt;/p&gt;</content><author><name>Peeyush Singh</name></author><category term="SoftwareDiscovery" /><summary type="html">AIM: Read only headlines out of website/article.</summary></entry><entry><title type="html">Why another blog, should you? how?</title><link href="http://localhost:4000/solutions/how-this-blog-works.html" rel="alternate" type="text/html" title="Why another blog, should you? how?" /><published>2020-01-22T00:00:00+05:30</published><updated>2020-01-22T00:00:00+05:30</updated><id>http://localhost:4000/solutions/how-this-blog-works</id><content type="html" xml:base="http://localhost:4000/solutions/how-this-blog-works.html">&lt;p&gt;Blog setting up should be easy and intuitive. I use Github page for better organisation and productive writing.&lt;/p&gt;
+
+&lt;details open=&quot;&quot;&gt;
+&lt;summary&gt;Why to blogging?&lt;/summary&gt;
+&lt;br /&gt;
+  
+1. Your thoughts, or selves in a timeline. Footprints.&lt;br /&gt;
+2. Clearing your mind, making goal. Small solution without meditations.&lt;br /&gt;
+3. Learning via writing (some people use, I don&apos;t)&lt;br /&gt;
+4. Reference for someone else - either journal or tech article&lt;br /&gt;
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;My Blogging Flow&lt;/summary&gt;
+&lt;br /&gt;
+  
+1. Edit locally in word; save to one drive; upload to github. Forever &lt;br /&gt;
+2. Central place for all blog entries. You can fast edit on cloud in case of mistake! &lt;br /&gt;
+3. Almost no time to deploy. https://github.com/peeyushsrj/peeyushsrj.github.io/issues/9 &lt;br /&gt; 
+4. Extensible - add Newsletter, comments, social linking, developing webpages etc. &lt;br /&gt;
+  
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;How to blogging?&lt;/summary&gt;
+&lt;br /&gt;
+  
+- [Low tech answer](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)&lt;br /&gt;
+- [High tech answer](https://github.com/danromero/clio#how-to-set-up) 😉&lt;br /&gt;
+  
+&lt;/details&gt;
+
+&lt;p&gt;Easier flow than this? DM!&lt;/p&gt;
+
+&lt;p&gt;** Else dm, me to help you setup all this!**&lt;/p&gt;
+
+&lt;!--
+
+The first step for any effective growth/ development is organisation. You can find organisation everywhere, either in your home, your workplace, your managers, your project kanban etc. Organisation gives us a start and a path to walk. (walking or not is a choice subject to surroundings - see place where you [live](#)) --&gt;
+
+&lt;!-- I can remember a time where the shift happens in my life, and I can remember a journaling system. A public journal is helpful for us to become more clear and our family or generations ahead.  --&gt;
+
+&lt;!-- ### Diving it into tech  --&gt;
+
+&lt;!-- Since working on devops for a long time, I&apos;ve been practicing to automate things to the point of bare simplicity! Like just click and run - that easy!  --&gt;
+
+&lt;!-- I have experimented with wordpress, drupal, ghost, dev.to and what’s so every , name it! Being in control makes me customize to any future requirements.  --&gt;
+&lt;!-- 
+These are common problems, and my common solutions for them.
+
+1. Hosting problem - I want my blog to live forever with a domain name and back-end that is always there. -&gt; Github
+2. Easy deployment - I do not want to search around files and take time to re-think the whole process for deployment, when there is already drag and drop! - [Github pages powered with Jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
+3. Framework with batteries - I want to just use RSS feed, or newsletter, or comments seamlessly. Above solution (2) still works here.
+
+Thus I would usually write in google docs and paste into some files into my github repositroy. &lt;br&gt;
+Bang, new blog! How fast, and efficent and natural.
+
+*In long terms - blogging will always be positive sum game!* --&gt;</content><author><name>Peeyush Singh</name></author><category term="Solutions" /><summary type="html">Blog setting up should be easy and intuitive. I use Github page for better organisation and productive writing.</summary></entry></feed>
