@@ -1,8 +1,8 @@
 ---
 layout: post
-title:	Why and How of blogging
+title:	Why another blog, should you, how?
 date:	2020-01-22
-category: Notes
+category: Solutions
 author:	Peeyush Singh
 ---
 
@@ -41,6 +41,8 @@ Blog setting up should be easy and intuitive. I use Github page for better organ
 </details>
 
 Easier flow than this? DM!
+
+** Else dm, me to help you setup all this!**
 
 <!--
 
