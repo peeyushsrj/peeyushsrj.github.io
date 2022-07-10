@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your family memeber missed that item, you asked?
+title: Your family member missed that item, you asked?
 date:	2022-06-10
 category: Solutions
 draft: false
