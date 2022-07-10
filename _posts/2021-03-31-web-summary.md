@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	Web Summary
+title:	(deprecated) Web Summary
 date:	2020-03-31
 draft: false
 category: SoftwareDiscovery

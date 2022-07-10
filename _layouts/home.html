@@ -32,10 +32,39 @@ layout: default
     </ul>
      <a class="post-link" href="/lessons/" style='text-decoration:none'>.</a>
 	-->
-    <!--<h2>{{ "Posts" }}</h2>-->
-	<br>
-    <div class="more-space">
+    <h2>{{ "Situations & Solutions" }}</h2><br>
+    <ul class="more-space">
       {%- for post in site.categories["Solutions"] limit:10 -%}
+      {% if post.draft == false %}
+      	<p>
+		    <b>{{ post.date | date: "%B %-d, %Y" }} </b>- 
+	      	<a class="post-link" href="{{ post.url | relative_url }}">
+	      		{{ post.title | escape }}
+	      	</a>
+	      </p>
+        {%- endif %}
+      {%- endfor -%}
+    </ul>
+
+    <br>
+    <h2>{{ "Stories" }}</h2>
+    <ul class="more-space">
+      {%- for post in site.categories["Blog"] limit:10 -%}
+      {% if post.draft == false %}
+      	<p>
+		    <b>{{ post.date | date: "%B %-d, %Y" }} </b>- 
+	      	<a class="post-link" href="{{ post.url | relative_url }}">
+	      		{{ post.title | escape }}
+	      	</a>
+	      </p>
+        {%- endif %}
+      {%- endfor -%}
+    </ul>
+
+    <br>
+    <h2>{{ "Exploration" }}</h2>
+    <ul class="more-space">
+      {%- for post in site.categories["SoftwareDiscovery"] limit:10 -%}
       {% if post.draft == false %}
       	<p>
 		    <b>{{ post.date | date: "%B %-d, %Y" }} </b>- 

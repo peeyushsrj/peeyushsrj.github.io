@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta content="text/html; charset=UTF-8" name="Content-Type" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width" />
+
+  <title>PYU.SH</title>
+
+  <meta property="og:site_name" content="PYU.SH" >
+  <meta property="og:locale" content="en_US">
+
+  <meta property="og:title" content="Rewriting amazon price tracker after 2+ years, as a public service">
+  <meta property="og:type" content="article">
+
+
+  <meta property="og:url" content="http://localhost:4000/blog/amzn-vw.html" >
+  <link rel="canonical" href="http://localhost:4000/blog/amzn-vw.html">
+
+
+  <meta name="description" content="Problems and their solutions" >
+  <meta property="og:description" content="Problems and their solutions" >
+
+
+  <meta property="og:image" content="/assets/initials.png" >
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@peeyu5h" />
+  <meta name="twitter:creator" content="@peeyu5h" />
+
+  <link rel="shortcut icon" type="image/png" href="/assets/favicon.ico">
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+  <link rel="alternate" type="application/rss+xml" title="PYU.SH RSS feed" href="http://localhost:4000/feed.xml" />
+  <!--<link rel="icon" href="/assets/32.png" sizes="32x32">
+  <link rel="icon" href="/assets/192.png" sizes="192x192">
+  <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" sizes="180x180">-->
+
+</head>
+<body>
+    <a class="muted small" href="/">PYU.SH</a>
+<h1>Rewriting amazon price tracker after 2+ years, as a public service</h1>
+<p class="muted small">Published on March 31, 2020</p>
+
+<h3 id="features">Features</h3>
+
+<ol>
+  <li>Authentication</li>
+  <li>Abilibity to add link quickly to the task (and avoid duplicate)</li>
+  <li>Ability to view their alerts</li>
+  <li>Ability to alert on product availibility</li>
+</ol>
+
+<p>These things were not there in :v1, because it was only intended to alerts customers -  a python solution dockerized in a container integrated with Google sheets as database.</p>
+
+<h3 id="architecture">Architecture</h3>
+
+<ol>
+  <li>Use django for user roles, item as for metadata. Provide, django templates available as a login portal (yes this can be also done with ROR with devise)</li>
+  <li>Chrome Extension example, that send a given page link to django application.</li>
+  <li>Django would provide, views to see and add alerts.</li>
+  <li>Running version 1, with this new meta-data backend!</li>
+</ol>
+
+<p><em>Tada!!!</em> As you see, it’s built on top!</p>
+
+<h3 id="project">Project</h3>
+
+<p>Project link Git -</p>
+
+<h4 id="milestones">Milestones</h4>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Setting up servers</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Setting up djangos</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Setting up roles</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Setting up models</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Setting up custom view with login themes</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Exposing django URI</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Chrome extension fork</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Redploying code for v1</li>
+</ul>
+
+
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'andersonvom'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<footer>
+  <p class="muted small">© 2022 | <a class="muted" href="http://localhost:4000/feed.xml">RSS</a> | Theme is <a href="https://github.com/danromero/clio">Clio</a></p>
+</footer>
+
+  </body>
+</html>

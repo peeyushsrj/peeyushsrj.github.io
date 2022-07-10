@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-10T15:19:18+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">PYU.SH</title><subtitle>Problems and their solutions</subtitle><entry><title type="html">Your family memeber missed that item, you asked?</title><link href="http://localhost:4000/solutions/family-shoppping.html" rel="alternate" type="text/html" title="Your family memeber missed that item, you asked?" /><published>2022-06-10T00:00:00+05:30</published><updated>2022-06-10T00:00:00+05:30</updated><id>http://localhost:4000/solutions/family-shoppping</id><content type="html" xml:base="http://localhost:4000/solutions/family-shoppping.html">&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-10T15:38:10+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">PYU.SH</title><subtitle>Problems and their solutions</subtitle><entry><title type="html">Your family memeber missed that item, you asked?</title><link href="http://localhost:4000/solutions/family-shoppping.html" rel="alternate" type="text/html" title="Your family memeber missed that item, you asked?" /><published>2022-06-10T00:00:00+05:30</published><updated>2022-06-10T00:00:00+05:30</updated><id>http://localhost:4000/solutions/family-shoppping</id><content type="html" xml:base="http://localhost:4000/solutions/family-shoppping.html">&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;/h2&gt;
 
 &lt;p&gt;Shopping and reminder is cucumber-some, if something is urgent we will buy it. But with more busyness in life, we may miss something that is not urgent or that is not important.&lt;/p&gt;
 
@@ -52,7 +52,7 @@
 
 &lt;p&gt;If you want to self host the code (run the  code by yourself). Use the following &lt;a href=&quot;https://bitbucket.org/peeyushsrj/amzsc/src/master/&quot;&gt;repository&lt;/a&gt;, to build the docker imiage and self host.&lt;/p&gt;
 
-&lt;p&gt;*Note - you will continuously receive emails every hour; if the price goes down below the price.&lt;/p&gt;</content><author><name>Peeyush Singh</name></author><category term="Solutions" /><summary type="html">Problem</summary></entry><entry><title type="html">Web Summary</title><link href="http://localhost:4000/softwarediscovery/web-summary.html" rel="alternate" type="text/html" title="Web Summary" /><published>2020-03-31T00:00:00+05:30</published><updated>2020-03-31T00:00:00+05:30</updated><id>http://localhost:4000/softwarediscovery/web-summary</id><content type="html" xml:base="http://localhost:4000/softwarediscovery/web-summary.html">&lt;p&gt;&lt;strong&gt;AIM:&lt;/strong&gt; Read only headlines out of website/article.&lt;/p&gt;
+&lt;p&gt;*Note - you will continuously receive emails every hour; if the price goes down below the price.&lt;/p&gt;</content><author><name>Peeyush Singh</name></author><category term="Solutions" /><summary type="html">Problem</summary></entry><entry><title type="html">(deprecated) Web Summary</title><link href="http://localhost:4000/softwarediscovery/web-summary.html" rel="alternate" type="text/html" title="(deprecated) Web Summary" /><published>2020-03-31T00:00:00+05:30</published><updated>2020-03-31T00:00:00+05:30</updated><id>http://localhost:4000/softwarediscovery/web-summary</id><content type="html" xml:base="http://localhost:4000/softwarediscovery/web-summary.html">&lt;p&gt;&lt;strong&gt;AIM:&lt;/strong&gt; Read only headlines out of website/article.&lt;/p&gt;
 
 &lt;p&gt;For Public Use; drag &lt;a href=&quot;javascript:location.href=&apos;http://fosting.in:8080/function/sudoc?selector=h2&amp;amp;url=&apos;+location.href&quot;&gt;this link&lt;/a&gt; to your bookmarks bar. This will convert any website to headlines. New url will be the format of ;&lt;/p&gt;
 
@@ -61,7 +61,44 @@
 
 &lt;p&gt;Chnage selector to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;h1, h2, h3&lt;/code&gt; to select required headlines.&lt;/p&gt;
 
-&lt;p&gt;Open source code available &lt;a href=&quot;https://bitbucket.org/peeyushsrj/sudoc/src/master/&quot;&gt;here&lt;/a&gt;! (usng openfaas to deploy this!)&lt;/p&gt;</content><author><name>Peeyush Singh</name></author><category term="SoftwareDiscovery" /><summary type="html">AIM: Read only headlines out of website/article.</summary></entry><entry><title type="html">Why another blog, should you? how?</title><link href="http://localhost:4000/solutions/how-this-blog-works.html" rel="alternate" type="text/html" title="Why another blog, should you? how?" /><published>2020-01-22T00:00:00+05:30</published><updated>2020-01-22T00:00:00+05:30</updated><id>http://localhost:4000/solutions/how-this-blog-works</id><content type="html" xml:base="http://localhost:4000/solutions/how-this-blog-works.html">&lt;p&gt;Blog setting up should be easy and intuitive. I use Github page for better organisation and productive writing.&lt;/p&gt;
+&lt;p&gt;Open source code available &lt;a href=&quot;https://bitbucket.org/peeyushsrj/sudoc/src/master/&quot;&gt;here&lt;/a&gt;! (usng openfaas to deploy this!)&lt;/p&gt;</content><author><name>Peeyush Singh</name></author><category term="SoftwareDiscovery" /><summary type="html">AIM: Read only headlines out of website/article.</summary></entry><entry><title type="html">Rewriting amazon price tracker after 2+ years, as a public service</title><link href="http://localhost:4000/blog/amzn-vw.html" rel="alternate" type="text/html" title="Rewriting amazon price tracker after 2+ years, as a public service" /><published>2020-03-31T00:00:00+05:30</published><updated>2020-03-31T00:00:00+05:30</updated><id>http://localhost:4000/blog/amzn-vw</id><content type="html" xml:base="http://localhost:4000/blog/amzn-vw.html">&lt;h3 id=&quot;features&quot;&gt;Features&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Authentication&lt;/li&gt;
+  &lt;li&gt;Abilibity to add link quickly to the task (and avoid duplicate)&lt;/li&gt;
+  &lt;li&gt;Ability to view their alerts&lt;/li&gt;
+  &lt;li&gt;Ability to alert on product availibility&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These things were not there in :v1, because it was only intended to alerts customers -  a python solution dockerized in a container integrated with Google sheets as database.&lt;/p&gt;
+
+&lt;h3 id=&quot;architecture&quot;&gt;Architecture&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Use django for user roles, item as for metadata. Provide, django templates available as a login portal (yes this can be also done with ROR with devise)&lt;/li&gt;
+  &lt;li&gt;Chrome Extension example, that send a given page link to django application.&lt;/li&gt;
+  &lt;li&gt;Django would provide, views to see and add alerts.&lt;/li&gt;
+  &lt;li&gt;Running version 1, with this new meta-data backend!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Tada!!!&lt;/em&gt; As you see, it’s built on top!&lt;/p&gt;
+
+&lt;h3 id=&quot;project&quot;&gt;Project&lt;/h3&gt;
+
+&lt;p&gt;Project link Git -&lt;/p&gt;
+
+&lt;h4 id=&quot;milestones&quot;&gt;Milestones&lt;/h4&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Setting up servers&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Setting up djangos&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Setting up roles&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Setting up models&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Setting up custom view with login themes&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Exposing django URI&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Chrome extension fork&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Redploying code for v1&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Peeyush Singh</name></author><category term="Blog" /><summary type="html">Features</summary></entry><entry><title type="html">Why another blog, should you? how?</title><link href="http://localhost:4000/solutions/how-this-blog-works.html" rel="alternate" type="text/html" title="Why another blog, should you? how?" /><published>2020-01-22T00:00:00+05:30</published><updated>2020-01-22T00:00:00+05:30</updated><id>http://localhost:4000/solutions/how-this-blog-works</id><content type="html" xml:base="http://localhost:4000/solutions/how-this-blog-works.html">&lt;p&gt;Blog setting up should be easy and intuitive. I use Github page for better organisation and productive writing.&lt;/p&gt;
 
 &lt;details open=&quot;&quot;&gt;
 &lt;summary&gt;Why to blogging?&lt;/summary&gt;
