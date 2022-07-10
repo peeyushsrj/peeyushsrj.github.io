@@ -33,13 +33,15 @@ layout: default
     <!--<h2>{{ "Posts" }}</h2>-->
 	<br>
     <div class="more-space">
-      {%- for post in site.categories["Solutions"] limit:10 -%}
+      {%- for $posts in site.categories["Solutions"] limit:10 -%}
+        {{if neq post.draft true}}
       	<p>
 		    <b>{{ post.date | date: "%B %-d, %Y" }} </b>- 
 	      	<a class="post-link" href="{{ post.url | relative_url }}">
 	      		{{ post.title | escape }}
 	      	</a>
 	      </p>
+        {{end}}
       {%- endfor -%}
     </ul>
 </main>
