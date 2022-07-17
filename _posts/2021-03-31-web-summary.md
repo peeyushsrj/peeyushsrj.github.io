@@ -10,7 +10,7 @@ author:	Peeyush Singh
 **AIM:** Read only headlines out of website/article.  
 
 For Public Use; drag [this link](javascript:location.href='http://fosting.in:8080/function/sudoc?selector=h2&url='+location.href) to your bookmarks bar. This will convert any website to headlines. New url will be the format of ; 
-
+nst
 ```
 http://fosting.in:8080/function/sudoc?selector=h2&url=https://pyload.net/
 ```
