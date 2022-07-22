@@ -10,15 +10,6 @@ Hello, my name is Peeyush Singh and I work as a Lead DevOPS Engineer at [Exactsp
 
 📍 Jaipur, India
 
-
-<!--to maximize challening and useful work, with competetive credits. Thus progressively moving towards Unknown, great minds, captain and a selfless being.-->
-
-<!-- solving via trees, divide an conquery any problems around me-->
-
-
-<!-- NEW PROJECTS PAGE -->
-<!-- rEUSME SOON --> 
-
 #### Here some of my work -
 
 <!--Here's is my list of software [utilities](http://fosting.in/), that you may find helpful.--> 
@@ -27,8 +18,6 @@ Hello, my name is Peeyush Singh and I work as a Lead DevOPS Engineer at [Exactsp
 - https://github.com/peeyushsrj (2017-present)
 
 Also I been writing story about how a man travel back into the future, but on another universe. 
-
-> 80% of my work can be produced by being 80% happy, If you're not -> make it as no. 1 priority!
 
 <!-- 
 
@@ -46,4 +35,4 @@ leading back into the future. (zero sum games!)
 
 - [LinkedIN](http://linkedin.com/in/peeyushsrj)
 
-Feel free to contact (If you're around, let's grab a cup of coffee and talk about life! ☕)
+Feel free to contact (If you're smart and around, let's grab a cup of coffee ☕)
