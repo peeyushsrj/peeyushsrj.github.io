@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-07-17-google-alternative.md",
+            "file": "2022-07-25-AvoidSpamCalls.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-07-17-google-alternative.md",
+                "file": "2022-07-25-AvoidSpamCalls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "9468f929a898444f",
   "lastOpenFiles": [
+    "2022-07-23-ZeroInbox.md",
+    "2021-04-07-lifestyle.md",
+    "2021-03-31-web-summary.md",
     "2022-07-17-google-alternative.md",
     "2022-07-18-do-you-need-a-website.md",
     "2022-07-11-amzn-vw.md",
     "2021-01-22-how-this-blog-works.md",
     "2021-02-20relationships.md",
     "2022-07-10-family-shoppping.md",
-    "2021-03-31-web-summary.md",
-    "2021-03-31-amzon-price-tracker.md",
-    "2021-02-28-having-life.md",
-    "2021-04-07-lifestyle.md"
+    "2021-03-31-amzon-price-tracker.md"
   ]
 }
