@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zero inbox solution for busy people
+title: Avoid wasting time on emails
 date:	2022-07-23
 category: Solutions
 draft: false
