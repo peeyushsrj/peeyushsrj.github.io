@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Avoid telemarketing calls?
+title:  Avoiding spam calls?
 date: 2022-07-25
 category: Solutions
 draft: false
