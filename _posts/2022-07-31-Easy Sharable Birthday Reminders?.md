@@ -18,6 +18,8 @@ For Creating
 
 For **Family members**, there is something known as "Family Group" at google, set this once. Now create one more event , and add "Family". Whole family members would be notified!
 
-![[https://pyu.sh/calender.png]]
+![Sample showing calender event](https://pyu.sh/assets/calender.png "Calender")
 
-(optional use case 3) How about a friend's birthday in one of your groups? Important ones , we remember! Others, we can set among group memebers by adding their email id while creating the event - One time manual event (with recurring setting) will save future miss instances.
+*(optional use case 3)* How about a friend's birthday in one of your groups? 
+
+Important ones , we remember! Others, we can set among group memebers by adding their email id while creating the event. Thus, one time manual event (with recurring setting) can save future sake.
