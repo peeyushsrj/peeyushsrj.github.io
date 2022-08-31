@@ -29,7 +29,8 @@ Finally it's what you are and what your values and what's your small point in th
 
 > Think yourself over a minute, would you see those photos. Or you see towards the end, what you have contributed to the world! 
 
-![[./solutions/Pasted image 20220831132626.png]]
+![](https://pyu.sh/)
+![https://pyu.sh/Pasted image 20220831132626.png](Image1)
 
 ## Process
 
@@ -41,6 +42,6 @@ This is rought, but if you want to get in depth. You defintely **need one time s
 
 <small>Now my updation of blog, is writing/duplicating a file, writing and clicking on a button</small>
 
-![[./solutions/Pasted image 20220831131519.png]]
+![[https://pyu.sh/Pasted image 20220831131519.png]]
 
 **P.S.** This blog is also made with above tools. 
