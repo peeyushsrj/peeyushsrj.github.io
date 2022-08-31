@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-07-10-family-shoppping.md",
+            "file": "_posts/2022-08-31-my-blogging-flow.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-07-10-family-shoppping.md",
+                "file": "_posts/2022-08-31-my-blogging-flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "e7c1bf53d78d2464",
   "lastOpenFiles": [
+    "_posts/2021-02-02-people-interactions.md",
     "_posts/2022-07-10-family-shoppping.md"
   ]
 }
