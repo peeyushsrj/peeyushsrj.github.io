@@ -31,6 +31,12 @@ I stick to [Sanebox](http://sanebox.com/), due to following factors
 
 Other things, after taking a demo I got discount,  3 months extension, as well as beta trial. If you're interested! DM
 
-See yourself for 1 month trial, if you use this link https://www.sanebox.com/signup/1852160b5b/c. Let me know your comments, woud be happy to answer any questions! I don't know about you, but I am happy. 
+See yourself for 1 month trial, if you use [this link] (https://www.sanebox.com/signup/1852160b5b/c). Let me know your comments, would be happy to answer any questions! I don't know about you, but I am happy. 
 
 > Less time to email, more time to life!
+
+**Update after 1 week**
+
+My work inbox has ~1000 emails, now it's back to zero.
+
+![Zero inbox screenshot](./assets/20220831131522.png)
