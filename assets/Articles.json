@@ -1,9 +1,9 @@
 ---
 layout: null
-permalink: /assets/Blogs.json
+permalink: /assets/Articles.json
 ---
 [
-{%- assign posts = site.categories["Blogs"] | where_exp: "post", "post.draft != true" -%}
+{%- assign posts = site.categories["Articles"] | where_exp: "post", "post.draft != true" -%}
 {%- for post in posts -%}
   {
     "title": {{ post.title | jsonify }},
