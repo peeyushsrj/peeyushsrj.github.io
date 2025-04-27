@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
   // Automatically click the 'Softwares' tab on page load
-  const defaultBtn = Array.from(buttons).find(btn => btn.getAttribute('data-category') === 'Softwares');
+  const defaultBtn = Array.from(buttons).find(btn => btn.getAttribute('data-category') === 'Solutions');
   if (defaultBtn) {
     defaultBtn.click();
   }
