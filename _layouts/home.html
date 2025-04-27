@@ -13,67 +13,14 @@ layout: default
 
 <hr />
 
-  <!--{%- if site.posts.size > 0 -%}
-    <h2>{{ page.list_title | default: "Problems & their solutions" }}</h2>
-    <ul class="more-space">
-      {%- for post in site.categories["Solutions"] limit:10 -%}
-      <li><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
-      {%- endfor -%}
-    </ul>
-  {%- endif -%}-->
-
-    <!--<h2>{{ "His Notes" }}</h2>-->
-    <!--<h2>{{ "Utilities & Discoveries 🚀" }}</h2>
-    <ul class="more-space">
-      {%- for post in site.categories["SoftwareDiscovery"] limit:10 -%}
-      <li><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
-      {%- endfor -%}
-    </ul>
-     <a class="post-link" href="/lessons/" style='text-decoration:none'>.</a>
-	-->
-    <h2>{{ "Situations & Solutions" }}</h2><br>
-    <ul class="more-space">
-      {%- for post in site.categories["Solutions"] limit:10 -%}
-      {% if post.draft == false %}
-      	<p>
-		    <b>{{ post.date | date: "%B %-d, %Y" }} </b>- 
-	      	<a class="post-link" href="{{ post.url | relative_url }}">
-	      		{{ post.title | escape }}
-	      	</a>
-	      </p>
-        {%- endif %}
-      {%- endfor -%}
-    </ul>
-
-    <br>
-    <h2>{{ "Stories" }}</h2>
-    <ul class="more-space">
-      {%- for post in site.categories["Blog"] limit:10 -%}
-      {% if post.draft == false %}
-      	<p>
-		    <b>{{ post.date | date: "%B %-d, %Y" }} </b>- 
-	      	<a class="post-link" href="{{ post.url | relative_url }}">
-	      		{{ post.title | escape }}
-	      	</a>
-	      </p>
-        {%- endif %}
-      {%- endfor -%}
-    </ul>
-
-    <br>
-    <h2>{{ "Exploration" }}</h2>
-    <ul class="more-space">
-      {%- for post in site.categories["SoftwareDiscovery"] limit:10 -%}
-      {% if post.draft == false %}
-      	<p>
-		    <b>{{ post.date | date: "%B %-d, %Y" }} </b>- 
-	      	<a class="post-link" href="{{ post.url | relative_url }}">
-	      		{{ post.title | escape }}
-	      	</a>
-	      </p>
-        {%- endif %}
-      {%- endfor -%}
-    </ul>
+<nav class="category-navbar">
+  <button class="category-btn" data-category="Solutions">Life Hacks</button>
+  <button class="category-btn" data-category="Softwares">Softwares</button>
+  <button class="category-btn" data-category="Blogs">Blog</button>
+</nav>
+<div id="posts-container">
+  <p>Select a category to view posts.</p>
+</div>
 </main>
 
 {%- include footer.html -%}
