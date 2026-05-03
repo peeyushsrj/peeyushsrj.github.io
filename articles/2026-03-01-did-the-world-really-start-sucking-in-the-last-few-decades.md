@@ -1,32 +1,23 @@
 ---
 categories: []
-date: '2026-03-1T00:20:50.949543'
+date: '2026-03-01T00:20:50.949543'
 layout: post
 source_url: https://www.reddit.com/r/Adulting/comments/1fgbnn4/did_the_world_really_start_sucking_in_the_last/
 tags:
 - india
-title: Reddit Did the world start sucking in the last few decades
---
-
-# Did the world really start sucking in the last few decades? Or does it just seem that way because I grew up?
-
-I am 27 years old and I feel like the world has changed SO much in my lifetime. Society has flipped upside down.
-
-I grew up in the 2000s. Everything seemed so community based. Everyone seemed happy. Everyone helped each other. It seemed like everyone lived a slower lifestyle. Everyone had more time. Everyone saw the good in humanity. The earth was literally more green. I could go swim in local swimming holes that are now all gated off. The forest I used to run around and play in is now a cul-de-sac. We used to have fun without being watched and judged all the time. We could make mistakes without being ridiculed for it.
-
-Then it seems like early 2010s - 2020 during my adolescence, society became stricter and stricter. Like overtime everyone started to grow afraid of each other and untrusting. It's grown rarer for strangers to go above and beyond for each other. Social media and texting replaced a lot of real social interactions. All real social interactions are planned out in advance now. The expectation shifted to needing to be reachable by text at all hours of the day. It used to be rude to call someone during dinner, or late at night. Work started coming home with you because of internet devices. Everyone was getting instant news making it seem like way more bad things are happening. Beauty standards became more unrealistic. However even through all of this, this decade still seemed to have its beauty. I somehow managed school, work, extracurriculars and a healthy social life throughout high school and college and was happy doing it.
-
-Then 2020 covid hit and the world has just seemed so dark and dreary since. It seems like there's no more joy or magic in life. No one has real fun anymore. You are always worrying about everything at once. You are expected to be on top of everything you have to manage in your life all at once.
-
-For example I might have my family group chat planning a picnic and asking me what I'm going to make, my boss texting me about a project and making requests, my boyfriend texting me complaining about not seeing me enough, also while I'm getting notifications reminding me to pay bills, all while I'm trying to cook dinner and do chores and be with the family... and like all of this going on and being expected to be mentally everywhere all at once... No wonder we are all anxious and overwhelmed.
-
-Also needing to coordinate when you can do basic life things... like get an oil change or take your dog to the vet around pre-allotted limited vacation hours at work... Like what is this life?
-
-Anyway... Coincidentally these timelines and shifts in society have aligned to change between my childhood, then adolescence, then adulthood. I graduated college the year the pandemic hit. I don't know if it's just my view of the world based on my age/milestones in combination of the changes that have occurred in society simultaneously? It doesn't seem like my parents were as drained in their 20s/30s as we all are now.
-
-**Those of you that are a lot older than I am.. Did growing up feel like this for you even though the decades were different? or is it truly the changes between the different decades making life feel different?**
-
+title: Did the world really start sucking in the last few decades?
 ---
+
+Did the world really start sucking in the last few decades? Or does it just seem that way because I grew up?
+I am 27 years old and I feel like the world has changed SO much in my lifetime. Society has flipped upside down. I grew up in the 2000s. Everything seemed so community based. Everyone seemed happy. Everyone helped each other. It seemed like everyone lived a slower life style. Everyone had more time. Everyone saw the good in humanity. The earth was literally more green. I could go swim in local swimming holes that are now all gated off. The forest I used to run around and play in is now a cul-de-sac. We used to have fun without being watched and judged all the time. We could make mistakes without being ridiculed for it.
+
+Then it seems like early 2010s - 2020 during my adolescence, society became stricter and stricter. Like overtime everyone started to grow afraid of each other and untrusting. It’s grew rarer for strangers to go above and beyond for each other. Social media and texting replaced a lot of real social interactions. All real social interactions are planned out in advance now. The expectation shifted to needing to be reachable by text at all hours of the day. It used to be rude to call someone during dinner, or late at night. Work started coming home with you because of internet devices.. Everyone was getting instant news making it seem like way more bad things are happening. Beauty standards became more unrealistic. However even through all of this, this decade still seemed to have its beauty. I somehow managed school, work, extracurriculars and a healthy social life throughout high school and college and was happy doing it.
+
+Then 2020 covid hit and the world has just seemed so dark and dreary since. It seems like there’s no more joy or magic in life. No one has real fun anymore. You are always worrying about everything at once. You are expected to be on top of everything you have to manage in your life all at once. For example I might have my family group chat planning a picnic and asking me what i’m going to make, my boss texting me about a project and making requests, my boyfriend texting me complaining about not seeing me enough, also while i’m getting notifications reminding me to pay bills, all while i’m trying to cook dinner and do chores and be with the family.. and like all of this going on and being expected to be mentally everywhere all at once... No wonder we are all anxious and overwhelmed.. and having fun just feel stressful with the amount of planning and coordinating around other things. Also needing to coordinate when you can do basic life things.. like get an oil change or take your dog to the vet around pre-allotted limited vacation hours at work.. like what is this life????
+
+Anyway.. Coincidentally these time lines and shifts in society have aligned to change between my childhood, then adolescence, then adulthood. I graduated college the year the pandemic hit. I don’t know if it’s just my view of the world based on my age/milestones in combination of the changes that have occurred in society simultaneously? It doesn’t seem like my parents were as drained in their 20s/30s as we all are now.
+
+Those of you that are a lot older than I am.. Did growing up feel like this for you even though the decades were different? or is it truly the changes between the different decades making life feel different?
 
 ## Top Comments
 
