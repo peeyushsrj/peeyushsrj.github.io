@@ -25,3 +25,5 @@ tags: []
 - **Challenge Thoughts**: Question whether current fears are based on present facts or past trauma, reminding yourself that the current moment is safe if there is no immediate danger.
 - **Vagus Nerve Stimulation**: Engage in humming, singing, or gentle neck stretches to stimulate the vagus nerve, which helps down-regulate the nervous system.
 - **Nature Exposure**: Spend time in natural settings or get morning daylight exposure to lower cortisol levels and reduce baseline hypervigilance.
+
+Also long time somatic therapy to reduce this up
