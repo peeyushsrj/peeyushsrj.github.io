@@ -1,9 +1,14 @@
-# Did the world really start sucking in the last few decades? Or does it just seem that way because I grew up?
-
-*Source: [Reddit r/Adulting](https://www.reddit.com/r/Adulting/comments/1fgbnn4/did_the_world_really_start_sucking_in_the_last/)*  
-*Posted by u/Original-One-6954 · 1 year ago · 1,885 points (95% upvoted)*
-
 ---
+categories: []
+date: '2026-03-1T00:20:50.949543'
+layout: post
+source_url: https://www.reddit.com/r/Adulting/comments/1fgbnn4/did_the_world_really_start_sucking_in_the_last/
+tags:
+- india
+title: Reddit Did the world start sucking in the last few decades
+--
+
+# Did the world really start sucking in the last few decades? Or does it just seem that way because I grew up?
 
 I am 27 years old and I feel like the world has changed SO much in my lifetime. Society has flipped upside down.
 
